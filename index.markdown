@@ -13,11 +13,11 @@ PhD in Computer Science, Technical University of Denmark
 
 <div class="project-grid">
   <a href="https://github.com/FedericoDelussu/EpiMob_Transfer_Entropy" target="_blank" class="project-card">
-    <img src="/project_pics/entropy.svg" alt="EpiMob Transfer Entropy">
+    <img src="/project_pics/entropy.png" alt="EpiMob Transfer Entropy">
     <span>EpiMob Transfer Entropy</span>
   </a>
   <a href="https://github.com/FedericoDelussu/Epidemic_modeling_on_sparse_GPS_trajectories" target="_blank" class="project-card">
-    <img src="/project_pics/sparsity.svg" alt="Epidemic Modeling on Sparse GPS Trajectories">
+    <img src="/project_pics/sparsity.png" alt="Epidemic Modeling on Sparse GPS Trajectories">
     <span>Epidemic Modeling on Sparse GPS Trajectories</span>
   </a>
 </div>
