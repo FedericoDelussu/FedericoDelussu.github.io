@@ -6,7 +6,7 @@ permalink: /projects/
 
 <div class="project-grid">
   <a href="https://github.com/FedericoDelussu/EpiMob_Transfer_Entropy" target="_blank" class="project-card">
-    <img src="/project_pics/entropy.svg" alt="EpiMob Transfer Entropy">
+    <img src="/project_pics/entropy.svg" alt="Transfer Entropy framework">
     <span>EpiMob Transfer Entropy</span>
   </a>
   <a href="https://github.com/FedericoDelussu/Epidemic_modeling_on_sparse_GPS_trajectories" target="_blank" class="project-card">
