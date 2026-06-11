@@ -17,6 +17,7 @@ permalink: /projects/
 <style>
 .project-row {
   display: flex;
+  flex-direction: row;
   align-items: stretch;
   gap: 0;
   text-decoration: none;
