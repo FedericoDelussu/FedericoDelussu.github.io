@@ -11,15 +11,15 @@ PhD in Computer Science, Technical University of Denmark
 
 ## Projects
 
-<a href="https://github.com/FedericoDelussu/EpiMob_Transfer_Entropy" target="_blank" class="project-row">
+<div class="project-row">
   <div class="project-row-thumb">
     <img src="/project_pics/entropy.png" alt="EpiMob Transfer Entropy">
   </div>
   <div class="project-row-body">
-    <h3>EpiMob Transfer Entropy</h3>
+    <h3><a href="https://github.com/FedericoDelussu/EpiMob_Transfer_Entropy" target="_blank">EpiMob Transfer Entropy</a></h3>
     <p>A framework for quantifying directional information flow between mobility and epidemic dynamics using transfer entropy. Analyzes how human movement patterns drive disease spread across populations.</p>
   </div>
-</a>
+</div>
 
 ---
 
@@ -38,9 +38,6 @@ Coming soon.
   display: flex;
   flex-direction: row;
   align-items: stretch;
-  gap: 0;
-  text-decoration: none;
-  color: inherit;
   border: 1px solid #ddd;
   border-radius: 8px;
   overflow: hidden;
@@ -51,6 +48,11 @@ Coming soon.
 .project-row:hover {
   box-shadow: 0 4px 16px rgba(0,0,0,0.15);
   transform: translateY(-2px);
+}
+
+.project-row-body a {
+  text-decoration: none;
+  color: inherit;
 }
 
 .project-row-thumb {
