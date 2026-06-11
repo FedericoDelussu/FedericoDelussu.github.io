@@ -21,6 +21,16 @@ PhD in Computer Science, Technical University of Denmark
   </div>
 </div>
 
+<div class="project-row">
+  <div class="project-row-thumb">
+    <img src="/project_pics/sparsity.png" alt="Epidemic Modeling on Sparse GPS Trajectories">
+  </div>
+  <div class="project-row-body">
+    <h3><a href="https://github.com/FedericoDelussu/Epidemic_modeling_on_sparse_GPS_trajectories" target="_blank">Epidemic Modeling on Sparse GPS Trajectories</a></h3>
+    <p>A method for simulating epidemic spread using sparse GPS trajectory data. Reconstructs mobility networks from incomplete location samples to model disease transmission at the population level.</p>
+  </div>
+</div>
+
 ---
 
 ## Publications
