@@ -16,8 +16,11 @@ PhD in Computer Science, Technical University of Denmark
     <img src="/project_pics/entropy.png" alt="EpiMob Transfer Entropy">
   </div>
   <div class="project-row-body">
-    <h3><a href="https://github.com/FedericoDelussu/EpiMob_Transfer_Entropy" target="_blank"> Feature selection for epidemic forecasting </a></h3>
-    <p> Developed a Python framework for comparing mobility time-series using the Transfer Entropy metric. Resulted in actionable guidance for feature selection in epidemic forecasting. </p>
+    <h3><a href="https://github.com/FedericoDelussu/EpiMob_Transfer_Entropy" target="_blank"> Feature Selection for Epidemic Forecasting </a></h3>
+    <ul>
+      <li>Developed a Python framework for comparing mobility time-series using the Transfer Entropy metric.</li>
+      <li>Resulted in actionable guidance for metric selection in predictive modeling applications.</li>
+    </ul>
   </div>
 </div>
 
@@ -27,7 +30,10 @@ PhD in Computer Science, Technical University of Denmark
   </div>
   <div class="project-row-body">
     <h3><a href="https://github.com/FedericoDelussu/Epidemic_modeling_on_sparse_GPS_trajectories" target="_blank">Epidemic Modeling on Sparse GPS Trajectories</a></h3>
-    <p>Quantified and mitigated structural biases in GPS traces with missing data. Developed location intelligence algorithms resulting in behavioral insights from GPS data.</p>
+    <ul>
+      <li>Quantified and mitigated structural biases in GPS traces with missing data.</li>
+      <li>Developed location intelligence algorithms resulting in behavioral insights from GPS data.</li>
+    </ul>
   </div>
 </div>
 
@@ -117,5 +123,17 @@ mail: federico.delussu@gmail.com
   font-size: 14px;
   color: #555;
   line-height: 1.5;
+}
+
+.project-row-body ul {
+  margin: 0;
+  padding-left: 18px;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.5;
+}
+
+.project-row-body li {
+  margin: 0 0 4px 0;
 }
 </style>
