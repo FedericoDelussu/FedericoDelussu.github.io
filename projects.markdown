@@ -9,8 +9,8 @@ permalink: /projects/
     <img src="/project_pics/entropy.png" alt="EpiMob Transfer Entropy">
   </div>
   <div class="project-row-body">
-    <h3><a href="https://github.com/FedericoDelussu/EpiMob_Transfer_Entropy" target="_blank">EpiMob Transfer Entropy</a></h3>
-    <p>A framework for quantifying directional information flow between mobility and epidemic dynamics using transfer entropy. Analyzes how human movement patterns drive disease spread across populations.</p>
+    <h3><a href="https://github.com/FedericoDelussu/EpiMob_Transfer_Entropy" target="_blank">Feature selection for forecasting using Causal Inference </a></h3>
+    <p> Built a framework drawing from information theory, using Transfer Entropy to compare mobility time-series. Resulted in actionable guidance for feature selection in epidemic forecasting.</p>
   </div>
 </div>
 
@@ -20,7 +20,8 @@ permalink: /projects/
   </div>
   <div class="project-row-body">
     <h3><a href="https://github.com/FedericoDelussu/Epidemic_modeling_on_sparse_GPS_trajectories" target="_blank">Epidemic Modeling on Sparse GPS Trajectories</a></h3>
-    <p>A method for simulating epidemic spread using sparse GPS trajectory data. Reconstructs mobility networks from incomplete location samples to model disease transmission at the population level.</p>
+    <p> Developed Location Intelligence algorithms resulting in behavioral insights from large-scale GPS trajectory data. Quantified and Mitigated the bias introduced by missing data in GPS location trajectories. 
+</p>
   </div>
 </div>
 
