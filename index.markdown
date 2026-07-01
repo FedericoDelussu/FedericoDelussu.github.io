@@ -63,11 +63,31 @@ Measured behavioral compliance across Italian provinces during tiered COVID-19 r
 
 ## Contact
 
-phone: +45 52658812
-mail: federico.delussu@gmail.com
+<p class="contact-line">
+  <svg class="contact-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79a15.15 15.15 0 006.59 6.59l2.2-2.2a1 1 0 011.02-.24 11.36 11.36 0 003.56.57 1 1 0 011 1V20a1 1 0 01-1 1A17 17 0 013 4a1 1 0 011-1h3.5a1 1 0 011 1 11.36 11.36 0 00.57 3.56 1 1 0 01-.24 1.02l-2.21 2.21z"/></svg>
+  <span>+45 52658812</span>
+</p>
+<p class="contact-line">
+  <svg class="contact-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20 4H4a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2zm0 4l-8 5-8-5V6l8 5 8-5z"/></svg>
+  <a href="mailto:federico.delussu@gmail.com">federico.delussu@gmail.com</a>
+</p>
 
 
 <style>
+.contact-line {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 8px 0;
+}
+
+.contact-icon {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 18px;
+  color: #555;
+}
+
 .project-row {
   display: flex;
   flex-direction: row;
